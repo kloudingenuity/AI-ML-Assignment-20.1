@@ -94,7 +94,7 @@ AI-ML-Assignment-20.1/
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 ### Advanced Models
 - Implement tree-based models (Random Forest) to capture non-linear patterns and improve recall.
@@ -108,7 +108,7 @@ AI-ML-Assignment-20.1/
 ---
 
 ## Source Code
-- [Data](https://github.com/kloudingenuity/AI-ML-Assignment-20.1/blob/main/src/data/application_train.csv)
+- [Data - Home Credit Default Risk](https://www.kaggle.com/competitions/home-credit-default-risk/data)
 - [Jupyter Notebook](https://github.com/kloudingenuity/AI-ML-Assignment-20.1/blob/main/src/home_credit.ipynb)
 
 --- 
